@@ -1,0 +1,14 @@
+[
+    // Crip Camp
+    {
+        "name": "CripCamp298",
+        "name_display": "Crip Camp Excerpts",
+        "tag": [""public" , "Crip Camp"],
+        "route": "CripCamp.jsonc",
+        "maintainer": {
+            "name": "ScottDDexter",
+            "url": "https://github.com/ScottDDexter"
+        },
+        "singer": "<none>"
+    },
+]
